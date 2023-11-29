@@ -2,7 +2,7 @@
 ##### Обо мне: Меня зовут Артем. Закончил курсы яндекс практикум "Разработчик С++", "Основы работы с git".
           
 ##### На данном этапе ищу практику или работу, продолжаю изучать и развивать навыки в С++
-######-----далее у автора что происходит-----
+#####-----далее у автора что происходит-----
 <img alt="Awesome GitHub Profile Readme" src="ezgif.com-resize.gif"> </img>
 <!--
 **UserUmbasa/UserUmbasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
