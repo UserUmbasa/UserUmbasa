@@ -3,7 +3,7 @@
           
 ##### На данном этапе ищу практику или работу, продолжаю изучать и развивать навыки в С++
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Inoplanet&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="agpr.gif"> </img>
 <!--
 **UserUmbasa/UserUmbasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
