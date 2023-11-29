@@ -1,4 +1,4 @@
-### Hi there 👋
+### Категорически приветствую 👋
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Inoplanet)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
