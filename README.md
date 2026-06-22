@@ -1,7 +1,6 @@
-##### Категорически приветствую 👋
-##### Обо мне: Меня зовут Артем. Закончил курсы яндекс практикум "Разработчик С++", "Основы работы с git".
+##### Приветствую 👋
+##### Обо мне: Меня зовут Артем. Закончил курсы яндекс практикум "Разработчик С++", Разработчик Java ".
           
-##### Знаю, что много не знаю. Работаю на этим
 <img alt="Awesome GitHub Profile Readme" src="ezgif.com-resize.gif"> </img>
 <!--
 **UserUmbasa/UserUmbasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
